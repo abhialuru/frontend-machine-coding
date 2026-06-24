@@ -1,5 +1,7 @@
 # Dependencies
 pagination/node_modules/
+pagination/.next/
+pagination/out/
  
 # Build outputs
 pagination/dist/
