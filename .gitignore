@@ -2,13 +2,19 @@
 pagination/node_modules/
 pagination/.next/
 pagination/out/
+autocomplete-search-bar/node_modules/
+autocomplete-search-bar/.next/
+autocomplete-search-bar/out/
  
 # Build outputs
 pagination/dist/
 pagination/build/
+autocomplete-search-bar/dist/
+autocomplete-search-bar/build/
  
 # Environment variables
 pagination/.env
+autocomplete-search-bar/.env
 
 # Logs
 *.log
