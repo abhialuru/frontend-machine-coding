@@ -5,16 +5,22 @@ pagination/out/
 autocomplete-search-bar/node_modules/
 autocomplete-search-bar/.next/
 autocomplete-search-bar/out/
+otp-system/node_modules/
+otp-system/.next/
+otp-system/out/
  
 # Build outputs
 pagination/dist/
 pagination/build/
 autocomplete-search-bar/dist/
 autocomplete-search-bar/build/
+otp-system/dist/
+otp-system/build/
  
 # Environment variables
 pagination/.env
 autocomplete-search-bar/.env
+otp-system/.env
 
 # Logs
 *.log
